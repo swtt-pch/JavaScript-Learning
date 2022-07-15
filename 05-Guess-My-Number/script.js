@@ -1,4 +1,4 @@
-'use strict';
+'use strict'
 
 const btnAgain = document.querySelector('.again');
 const btnCheck = document.querySelector('.check');
